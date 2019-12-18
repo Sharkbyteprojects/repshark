@@ -1,0 +1,16 @@
+{
+  "name": "rep.sh",
+  "version": "1.0.0",
+  "description": "An Liberary that make it easier to Replace all words from a string",
+  "main": "rep.sh.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharkbyteprojects/Rep.sh.js.git"
+  },
+  "author": "Sharkbyteproects",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "license": "ISC"
+}
