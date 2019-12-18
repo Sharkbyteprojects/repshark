@@ -11,6 +11,5 @@
     "url": "https://github.com/Sharkbyteprojects/Rep.sh.js.git"
   },
   "author": "Sharkbyteproects",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/Sharkbyteprojects/" },
   "license": "ISC"
 }
