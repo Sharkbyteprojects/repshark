@@ -1,6 +1,6 @@
 {
   "name": "repshark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Liberary that make it easier to Replace all words from a string",
   "main": "index.js",
   "scripts": {
