@@ -2,7 +2,7 @@
   "name": "repshark",
   "version": "1.0.0",
   "description": "An Liberary that make it easier to Replace all words from a string",
-  "main": "rep.sh.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
