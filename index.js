@@ -4,5 +4,6 @@
 * WRITTEN BY SHARKBYTEPROJECTS
 */
 module.exports=(strings, sfor, repwit)=> {
-  return strings.split(sfor).join(repwit)
+  const first=strings.split(sfor);
+  return first.join(repwit);
 }
